@@ -1,2 +1,1 @@
-# megosearch
-my Search engine for OSINTman
+README.md
